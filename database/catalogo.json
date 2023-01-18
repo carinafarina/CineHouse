@@ -1,0 +1,26 @@
+[
+    {
+      "codigo": 100,
+      "titulo": "Lagoa Azul",
+      "duracao": 1,
+      "atores": [ "Brooke Shields, Christopher Atkins"],
+      "anoLancamento": 1980,
+      "emCartaz": false
+    },
+    {
+      "codigo": 101,
+      "titulo": "O Rei leão",
+      "duracao": 1.5,
+      "atores": [ "BJonthan Roberts, Linda Woolveerton" ],
+      "anoLancamento": 1994,
+      "emCartaz": false
+    },
+    {
+      "codigo": 102,
+      "titulo": "Titanic",
+      "duracao": 3,
+      "atores": [ "Elva Josephson', 'Brooke Shields" ],
+      "anoLancamento": 2002,
+      "emCartaz": true
+    }
+  ]
